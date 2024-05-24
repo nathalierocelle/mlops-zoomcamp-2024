@@ -1,6 +1,6 @@
-# pandas
-# pyarrow
-# ipykernel
-# seaborn
-# matplotlib
+pandas
+pyarrow
+ipykernel
+seaborn
+matplotlib
 scikit-learn
