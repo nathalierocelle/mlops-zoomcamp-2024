@@ -1,0 +1,6 @@
+# pandas
+# pyarrow
+# ipykernel
+# seaborn
+# matplotlib
+scikit-learn
